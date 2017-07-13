@@ -23,6 +23,6 @@
     "hubot-youtube": "^1.0.1"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": "4.8.4"
   }
 }
